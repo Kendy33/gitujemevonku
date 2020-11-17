@@ -1,10 +1,13 @@
 console.log("oh yes Guyyys");
 function app() {
     if (loggedIn()) {
-        //redirect
+        //redirect home
     }
+    else{// redirect to register
+}
 }
 function loggedIn () {
     return true;
 }
+
 
