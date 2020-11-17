@@ -1,4 +1,3 @@
-
 console.log("oh yes Guyyys");
 function app() {
     if (loggedIn()) {
@@ -8,3 +7,4 @@ function app() {
 function loggedIn () {
     return true;
 }
+
